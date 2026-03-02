@@ -306,12 +306,13 @@ body::before {
 
 .header .search:hover,
 .header .search:focus-within {
+  width: 380px;
   border-color: transparent;
   background: rgba(255, 255, 255, 0.08);
   transform: translateY(-2px);
   box-shadow:
     0 8px 32px rgba(0, 0, 0, 0.4),
-    0 2px 8px rgba(138, 43, 226, 0.2);
+    0 0 15px rgba(0, 123, 255, 0.6);
 }
 
 .header .search:hover::before,
