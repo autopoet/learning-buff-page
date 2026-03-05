@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/autopoet/RepositoryFirst?style=flat-square)](https://github.com/autopoet/RepositoryFirst/stargazers)
 ![Language](https://img.shields.io/badge/language-HTML5%20%2F%20CSS3%20%2F%20JS-orange)
 
-本项目是一个高性能的饰品交易平台（仿 BUFF）静态原型系统。通过本项目，我实现了一套完整的前端电商页面架构，并手写了兼容多端的交互组件。
+本项目是一个高性能的饰品交易平台（仿 BUFF）静态原型系统。通过本项目，我实现了一个基础的前端电商首页页面架构，并手写了兼容多端的交互组件。
 
 ##  项目亮点
 
